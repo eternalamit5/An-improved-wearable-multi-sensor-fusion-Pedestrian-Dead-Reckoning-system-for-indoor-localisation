@@ -16,8 +16,11 @@ plot(maxtab(:,1), maxtab(:,2), 'r*');
 
 
 Snapshot:
+
 - Original data graph
+
 <img width="776" alt="before peak detection" src="https://user-images.githubusercontent.com/44448083/126512077-9fe91ad2-344d-4c2b-a67d-da0e9931ea13.PNG">
 
 - Peak Detected Graph
-- <img width="795" alt="Capture" src="https://user-images.githubusercontent.com/44448083/126512828-eadf6f45-4cec-4c3f-bfcb-924aae17104c.PNG">
+
+<img width="795" alt="Capture" src="https://user-images.githubusercontent.com/44448083/126512828-eadf6f45-4cec-4c3f-bfcb-924aae17104c.PNG">
