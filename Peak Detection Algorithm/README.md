@@ -13,3 +13,6 @@ Now we'll find the peaks and valleys: (you'll need to copy the "peakdet" functio
 [maxtab, mintab] = peakdet(x, 0.5);
 hold on; plot(mintab(:,1), mintab(:,2), 'g*');
 plot(maxtab(:,1), maxtab(:,2), 'r*');
+
+
+<img width="776" alt="before peak detection" src="https://user-images.githubusercontent.com/44448083/126512077-9fe91ad2-344d-4c2b-a67d-da0e9931ea13.PNG">
