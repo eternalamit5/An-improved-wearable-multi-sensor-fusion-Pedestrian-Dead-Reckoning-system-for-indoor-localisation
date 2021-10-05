@@ -24,3 +24,9 @@ Recommended to create the environment easily using Anaconda
 conda create -n py36 python=3.6 scipy=1.0.0 numpy=1.14.0 opencv
 pip install python-osc
 ```
+
+# Coming Soon:
+
+1. Motion Classification Using Deep Learning
+
+3. Ray Tracing with Map Matching and Particle Filter
