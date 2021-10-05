@@ -1,0 +1,15 @@
+byProgram
+floor,4,0.jpg,1.jpg,2.jpg,3.jpg
+height,4.5
+start,1
+start_point,637.4375,62.17751479289941
+dir,-0.258254399763
+scale,0.33167
+node,node.txt
+link,link.txt
+arrow,arrow.txt
+polygon,polygon.txt
+nodeID,1018
+linkID,710
+arrowID,17
+polygonID,88
