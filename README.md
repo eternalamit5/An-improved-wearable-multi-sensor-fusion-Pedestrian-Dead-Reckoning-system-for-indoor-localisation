@@ -4,6 +4,13 @@ A solution for indoor positioning based on Pedestrian Dead Reckoning(PDR), with 
 ![pdr_video__27-09-2021_18-30-08__SparkVideo (1)](https://user-images.githubusercontent.com/44448083/134951489-0081450e-fe2b-4014-aaf6-d17f931e784e.gif)
 
 The Map above created is the BIBA-Bremer Institut für Produktion und Logistik Bremen, Germany
+
+#Concept Used:
+- Step detection, step length estimation.
+- Motion classification using machine learning method Multi-Layer Perceptrons (MLP).
+- Design of Particle Filter with Map matching algorithm for pedestrian localisation and heading correction using Robust Adaptive Kalman Filter.
+
+
 # System requirement
 Hardware: IMU Xsens MTi-3 AHRS
 
