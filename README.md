@@ -1,10 +1,10 @@
 # An improved wearable multi sensor fusion Pedestrian Dead Reckoning system for indoor localisation of Human
-A solution for indoor positioning based on Pedestrian Dead Reckoning(PDR), with map matching using chest mounted IMU and flex sensor.
+A solution for indoor positioning based on Pedestrian Dead Reckoning(PDR), with map matching using chest mounted IMU.
 
 ![pdr_video__27-09-2021_18-30-08__SparkVideo (1)](https://user-images.githubusercontent.com/44448083/134951489-0081450e-fe2b-4014-aaf6-d17f931e784e.gif)
 
 # System requirement
-Hardware: IMU Xsens MTi-3 AHRS, Barometer and Flex sensor
+Hardware: IMU Xsens MTi-3 AHRS
 
 Environment Required:
 
