@@ -1,3 +1,0 @@
-1 STANDING           
-2 WALKING  
-3 JOGGING
