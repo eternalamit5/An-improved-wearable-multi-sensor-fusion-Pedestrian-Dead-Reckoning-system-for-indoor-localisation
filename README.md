@@ -5,7 +5,7 @@ A solution for indoor positioning based on Pedestrian Dead Reckoning(PDR), with 
 
 The Map above created is the BIBA-Bremer Institut für Produktion und Logistik Bremen, Germany
 
-#Concept Used:
+# Concept Used:
 - Step detection, step length estimation.
 - Motion classification using machine learning method Multi-Layer Perceptrons (MLP).
 - Design of Particle Filter with Map matching algorithm for pedestrian localisation and heading correction using Robust Adaptive Kalman Filter.
